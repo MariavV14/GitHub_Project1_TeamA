@@ -1,2 +1,2 @@
-# GitHub_Project1_TeamA
-GitHub Project 1 - Team A
+# Hotel Booking
+Project 1 - Team A
